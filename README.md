@@ -1,5 +1,6 @@
 # Algorithms for machine learning 
 
+![PYTHON](https://github.com/dame-cell/100daysofml/assets/122996026/295df7c7-387e-4d0a-8d09-d383ebda0323)
 
 ## Description 
 this is a repository for people who are starting  their journey in machine learning 
