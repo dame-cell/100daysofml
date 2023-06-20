@@ -10,15 +10,15 @@ Please note that while I have made an effort to ensure accuracy, there may be so
 
 ### This repository contains code from scratch  for algorithms such as   :
 
-* [Logistic Regression](https://100daysofml/Logisticregression.ipynb)
-* [Ridge Regression or l2 or regularization](https://100daysofml/ridgeregression.ipynb)
-* [Ridge Gradient Regression](https://100daysofml/ridgegradientregression.ipynb)
-* [lasso Regression or l1 or regularization ](https://100daysofml/Lassoregression.ipynb)
-* [elastic Regression or regularization ](https://100daysofml/Elasticnet.ipynb)
-* [polynomial Regression](https://100daysofml/polynomialregression.ipynb)
-* [batch Gradient Descent](https://100daysofml/batchgradientdescent.ipynb)
-* [Stochastic Regression](https://100daysofml/stocasticregression.ipynb)
-* [MINI-Batch](https://100daysofml/minibatch.ipynb)
+* Logistic Regression
+* Ridge Regression or l2 or regularization
+* Ridge Gradient Regression
+* lasso Regression or l1 or regularization 
+* elastic Regression or regularization 
+* polynomial Regression
+* batch Gradient Descent
+* Stochastic Regression
+* MINI-Batch
 
 * ## will be adding more.....
 
