@@ -4,11 +4,9 @@
 
 ## Description 
 
-this is a repository for people who are starting  their journey in machine learning 
+This repository is aimed at beginners who are starting their journey in machine learning. It provides code implementations from scratch for various machine-learning algorithms. The focus is not only on understanding the underlying mathematics but also on coding the algorithms to gain a deeper understanding.
 
-One thing   I believe is that in order to fully understand the different algorithms we need to understand not only the fundamental  maths behind it but also code the algo from scratch  
-
-p.s -  I did most of the coding myself so there may be some mistakes here and there but I am open to criticism  and to keep on learning 
+Please note that while I have made an effort to ensure accuracy, there may be some mistakes in the code. I welcome feedback and constructive criticism as I continue to learn and improve. also i did not add linear regression
 
 ### This repository contains code from scratch  for algorithms such as   :
 
@@ -25,5 +23,11 @@ p.s -  I did most of the coding myself so there may be some mistakes here and th
 * ## will be adding more.....
 
 
-  
+## Usage
+
+Each algorithm is organized into separate files or directories. To use an algorithm, follow the instructions provided in the corresponding code file. You may need to install certain dependencies or libraries, so please refer to the instructions and ensure you have the required environment set up.
+
+## Contributions
+
+Contributions to this repository are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. Let's collaborate and make this resource better together!
 
