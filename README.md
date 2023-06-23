@@ -11,6 +11,7 @@ Please note that while I have made an effort to ensure accuracy, there may be so
 ### This repository contains code from scratch  for algorithms such as   :
 
 * Logistic Regression
+* logistic regression gradient descent and loss function 
 * Ridge Regression or l2 or regularization
 * Ridge Gradient Regression
 * lasso Regression or l1 or regularization 
